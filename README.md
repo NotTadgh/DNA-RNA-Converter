@@ -7,10 +7,11 @@ This program allows for DNA and RNA sequences with:
 - Hyphens "-"
 - 5' and 3' 
 
-Example of valid inputs:
+```text
 ATGCCATACGTTAGGCTAA
 5'-ATG-CCA-TAC-GTT-AGG-CTAA-3'
 5' ATG CCA TAC GTT AGG CTAA 3'
+```
 
 This program cannot read from 3' to 5'
 Nucleotides must be capitalised
