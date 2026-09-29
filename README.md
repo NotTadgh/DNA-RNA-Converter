@@ -7,6 +7,7 @@ This program allows for DNA and RNA sequences with:
 - Hyphens "-"
 - 5' and 3' 
 
+Example of valid inputs:
 ```text
 ATGCCATACGTTAGGCTAA
 5'-ATG-CCA-TAC-GTT-AGG-CTAA-3'
